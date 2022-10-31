@@ -3,6 +3,7 @@ public class Main {
     System.out.println("Hello world!");
     System.out.println("Hello again!");
     System.out.println("Hello it's a me, Mario!");
+    System.out.println("This is an entry made on branch1");
 
     }
 }
